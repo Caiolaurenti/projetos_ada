@@ -1,0 +1,1 @@
+### O projeto aqui consiste em fazer um sistema de empréstimo para bicicletas, implementando uma classe loja e uma classe cliente, e definindo os métodos de alugar e devolver bicicletas. Também é implementada uma política de desconto caso o cliente alugue 3 ou mais bicicletas.
